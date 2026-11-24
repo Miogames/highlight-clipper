@@ -1,0 +1,45 @@
+# OAuth credentials, API keys, and tokens
+client_secret.json
+youtube_token.json
+youtube_analytics_token.json
+.env
+.env.*
+.clipper-setup-*
+client_secret*.json
+*.key
+ai_key.txt
+youtube_api_key.txt
+
+# Generated clips and temporary data
+clips/
+clips2/
+HighlightClipperBuffer/
+youtube_metadata.csv
+upload_queue.json
+upload_queue.lock
+upload_queue.tmp
+facecam_box.txt
+channel_coach_report.md
+title_lessons.json
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.ts
+*.wav
+*.rar
+*.zip
+*.exe
+.venv/
+venv/
+.vscode/
+.idea/
+*.pyc
+/gitignore
+__pycache__/
+*.log
+
+# PyInstaller output
+build/
+dist/
+*.spec

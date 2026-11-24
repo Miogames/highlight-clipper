@@ -1,0 +1,11 @@
+numpy
+faster-whisper
+yt-dlp
+chat-downloader
+pytchat
+streamlink
+websocket-client
+google-api-python-client
+google-auth-oauthlib
+customtkinter
+opencv-python-headless<5
