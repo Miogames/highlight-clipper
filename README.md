@@ -4,6 +4,8 @@
 
 Built by [Miogames](https://github.com/Miogames).
 
+Developed with assistance from Claude and ChatGPT (Codex).
+
 Highlight Clipper turns videos and live streams into highlight clips on Windows. You can
 add captions, create vertical videos, and optionally upload or schedule clips on your own YouTube channel.
 
