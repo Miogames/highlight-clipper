@@ -1,3 +1,5 @@
+<img src="assets/highlight-clipper.png" alt="Highlight Clipper logo" width="128">
+
 # Highlight Clipper Publisher v2
 
 Built by [Miogames](https://github.com/Miogames).
